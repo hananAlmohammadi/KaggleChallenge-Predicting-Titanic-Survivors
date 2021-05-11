@@ -6,10 +6,6 @@
 
 
 # Introduction 
-## published Kaggle kernel:
-
-[Titanic - Machine Learning from Disaster](https://www.kaggle.com/hananxx/titanic)
-
 
 ## Datasets Description 
 
