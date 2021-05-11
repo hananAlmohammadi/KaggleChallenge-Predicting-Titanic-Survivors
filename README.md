@@ -43,12 +43,3 @@ The project aims to use machine learning models in predicating whether the passe
 |Cabin|int| Train,Test|Cabin number|
 |Embarked|str| Train,Test|Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton|
 
-
-# Conclusion and Recommendations
-
-Our findings in this study is that 61% of passengers not-survived, only 38% of them survived. We find that most of survived passengers were women although, the majority of passengers were men. the survival rate in titanic ship for women and men was high when age between 20 - 50. We find that most of passengers embarked from Southampton port and most of them from class 3. Our target was predicting wethier the passenger survived or not. 
-
-# Group Members:
-- Hanan Almohammadi 
-- Nesreen Alqahtani
-- Samaher Alharbi
